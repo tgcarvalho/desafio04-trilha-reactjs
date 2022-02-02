@@ -5,8 +5,24 @@
       "name": "Macarrão ao molho Branco",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
       "price": "22.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Macarronada da mamãe",
+      "price": "39.50",
+      "description": "macarones bem legais",
+      "available": true,
+      "id": 2
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "lasanha",
+      "price": "36",
+      "description": "teste",
+      "available": true,
+      "id": 3
     }
   ]
 }
